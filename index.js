@@ -20,8 +20,8 @@ xhr.onerror = function() {
 
 // Define los datos que deseas enviar en el cuerpo de la solicitud
 var data = {
-  question: 'cual es mi nombre?',
-  context: 'Hola mi nombre es Yoselin y vivo en michoacan',
+  question: 'donde vivo?',
+  context: 'Hola mi nombre es Herschel y vivo en michoacan',
 };
 
 // Configura la solicitud POST
